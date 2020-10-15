@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/alarm.png</file>
+        <file>image/search.png</file>
+        <file>image/clock.png</file>
+        <file>image/fish.png</file>
+        <file>image/label.png</file>
+        <file>image/apple.png</file>
+        <file>image/faxian.png</file>
+        <file>image/guanzhu.png</file>
+        <file>image/tuijian.png</file>
+        <file>image/yelu.png</file>
+    </qresource>
+</RCC>
